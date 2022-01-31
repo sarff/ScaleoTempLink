@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "email": "example1@example.com",
+      "pass": "PASSWD!",
+      "chat_id": 291111192
+    },
+    {
+      "email": "example1@example.com",
+      "pass": "PASSWD!",
+      "chat_id": 291222292
+    }
+    ]
+}
